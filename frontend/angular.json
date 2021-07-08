@@ -49,6 +49,7 @@
                             "src/favicon.ico",
                             "src/assets",
                             "src/_redirects"
+
                         ],
                         "styles": [
                             "node_modules/bootstrap/dist/css/bootstrap.min.css",
