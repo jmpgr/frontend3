@@ -5,7 +5,8 @@
 export const environment = {
   production: false,
   appName: 'Gastos',
-  host:'http://localhost:8085/'
+  host:'https://gasto2xema.herokuapp.com/api/'
+  //host:'http://localhost:8085/'
 };
 
 /*
